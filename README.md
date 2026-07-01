@@ -8,9 +8,9 @@ CÓMO USAR ESTE ARCHIVO:
 3. Los badges (las "pastillas" de colores) son de shields.io, se generan solos con la URL,
    no hay que descargar nada ni crear cuenta.
 -->
-<h1 align="center">Hola, soy [Rubén] 👋</h1>
+<h1 align="center">Hola, soy Rubén 👋</h1>
 <p align="center">
-  Estudiante de Ingeniería del Software · Fundador de <a href="[http://localhost:3000/#proceso]">Studio Arias</a> · Oviedo, España
+  Estudiante de Ingeniería del Software
 </p>
 <p align="center">
   <a href="[https://www.linkedin.com/in/rub%C3%A9n-arias-arias-237922376/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -19,7 +19,7 @@ CÓMO USAR ESTE ARCHIVO:
 
 Sobre mí
 
-Construyo webs y sistemas de automatización con IA para negocios locales a través de Studio Arias, mi propio estudio, mientras curso Ingeniería del Software. Me interesa especialmente todo lo que une desarrollo web, IA aplicada y automatización de procesos reales — no proyectos de juguete.
+Construyo webs y sistemas de automatización con IA para negocios locales a través de Studio Arias, mi propio estudio, mientras curso Ingeniería del Software. Me interesa especialmente todo lo que une desarrollo web, IA aplicada y automatización de procesos reales.
 
 
 🔭 Ahora mismo trabajando en: [proyecto actual, ej. "el chatbot de WhatsApp con IA para el primer cliente de Studio Arias"]
