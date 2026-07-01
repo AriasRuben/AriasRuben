@@ -14,7 +14,7 @@ CÓMO USAR ESTE ARCHIVO:
 </p>
 <p align="center">
   <a href="[https://www.linkedin.com/in/rub%C3%A9n-arias-arias-237922376/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[TU_EMAIL]"><img src="https://img.shields.io/badge/Email-e0a640?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ruben.ibias10@gmail.com"><img src="https://img.shields.io/badge/Email-e0a640?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 Sobre mí
@@ -22,10 +22,10 @@ Sobre mí
 Construyo webs y sistemas de automatización con IA para negocios locales a través de Studio Arias, mi propio estudio, mientras curso Ingeniería del Software. Me interesa especialmente todo lo que une desarrollo web, IA aplicada y automatización de procesos reales.
 
 
-🔭 Ahora mismo trabajando en: [proyecto actual, ej. "el chatbot de WhatsApp con IA para el primer cliente de Studio Arias"]
+🔭 Ahora mismo trabajando en: automatizacion de paginas web con IA
 🌱 Aprendiendo: agentes de IA, arquitecturas cloud
 💬 Pregúntame sobre: Next.js, automatización con n8n, integración de APIs de IA
-📫 Contacto: [TU_EMAIL]
+📫 Contacto: ruben.ibias10@gmail.com
 
 
 Stack
