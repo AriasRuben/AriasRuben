@@ -19,7 +19,7 @@ CÓMO USAR ESTE ARCHIVO:
 
 Sobre mí
 
-Construyo webs y sistemas de automatización con IA para negocios locales a través de Studio Arias, mi propio estudio, mientras curso Ingeniería del Software. Me interesa especialmente todo lo que une desarrollo web, IA aplicada y automatización de procesos reales.
+Trabajo en proyectos personales de desarrollo web y automatización con IA, enfocados en mejorar la presencia digital y la experiencia de usuario de negocios locales, mientras curso Ingeniería del Software. Me interesa todo lo que une desarrollo web, IA aplicada y automatización de procesos reales.
 
 
 🔭 Ahora mismo trabajando en: automatizacion de paginas web con IA
