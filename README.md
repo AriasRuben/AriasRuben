@@ -52,7 +52,7 @@ Stack
 </p>
 Proyecto destacado
 
-Studio Arias — Web propia de mi estudio de desarrollo, construida con Next.js, TypeScript y Tailwind CSS. Incluye internacionalización ES/EN y un sistema de portfolio basado en datos, pensado para escalar a medida que se suman proyectos de clientes reales.
+Studio Arias — Web propia de mi estudio de desarrollo, construida con Next.js, TypeScript y Tailwind CSS. Incluye un sistema de portfolio basado en datos, pensado para escalar a medida que se suman proyectos de clientes reales.
 
 <!--
 Opcional: GitHub tiene "widgets" de estadísticas automáticas que se generan solos
